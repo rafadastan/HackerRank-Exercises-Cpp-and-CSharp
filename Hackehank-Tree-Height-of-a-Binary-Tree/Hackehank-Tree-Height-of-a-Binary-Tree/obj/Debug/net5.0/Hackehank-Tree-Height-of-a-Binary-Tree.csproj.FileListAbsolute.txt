@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\Hackehank-Tree-Height-of-a-Binary-Tree\Hackehank-Tree-Height-of-a-Binary-Tree\bin\Debug\net5.0\Hackehank-Tree-Height-of-a-Binary-Tree.exe
+C:\Users\raphael.assis\source\repos\Hackehank-Tree-Height-of-a-Binary-Tree\Hackehank-Tree-Height-of-a-Binary-Tree\bin\Debug\net5.0\Hackehank-Tree-Height-of-a-Binary-Tree.deps.json
+C:\Users\raphael.assis\source\repos\Hackehank-Tree-Height-of-a-Binary-Tree\Hackehank-Tree-Height-of-a-Binary-Tree\bin\Debug\net5.0\Hackehank-Tree-Height-of-a-Binary-Tree.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\Hackehank-Tree-Height-of-a-Binary-Tree\Hackehank-Tree-Height-of-a-Binary-Tree\bin\Debug\net5.0\Hackehank-Tree-Height-of-a-Binary-Tree.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\Hackehank-Tree-Height-of-a-Binary-Tree\Hackehank-Tree-Height-of-a-Binary-Tree\bin\Debug\net5.0\Hackehank-Tree-Height-of-a-Binary-Tree.dll
+C:\Users\raphael.assis\source\repos\Hackehank-Tree-Height-of-a-Binary-Tree\Hackehank-Tree-Height-of-a-Binary-Tree\bin\Debug\net5.0\ref\Hackehank-Tree-Height-of-a-Binary-Tree.dll
+C:\Users\raphael.assis\source\repos\Hackehank-Tree-Height-of-a-Binary-Tree\Hackehank-Tree-Height-of-a-Binary-Tree\bin\Debug\net5.0\Hackehank-Tree-Height-of-a-Binary-Tree.pdb
+C:\Users\raphael.assis\source\repos\Hackehank-Tree-Height-of-a-Binary-Tree\Hackehank-Tree-Height-of-a-Binary-Tree\obj\Debug\net5.0\Hackehank-Tree-Height-of-a-Binary-Tree.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\Hackehank-Tree-Height-of-a-Binary-Tree\Hackehank-Tree-Height-of-a-Binary-Tree\obj\Debug\net5.0\Hackehank-Tree-Height-of-a-Binary-Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\Hackehank-Tree-Height-of-a-Binary-Tree\Hackehank-Tree-Height-of-a-Binary-Tree\obj\Debug\net5.0\Hackehank-Tree-Height-of-a-Binary-Tree.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\Hackehank-Tree-Height-of-a-Binary-Tree\Hackehank-Tree-Height-of-a-Binary-Tree\obj\Debug\net5.0\Hackehank-Tree-Height-of-a-Binary-Tree.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\Hackehank-Tree-Height-of-a-Binary-Tree\Hackehank-Tree-Height-of-a-Binary-Tree\obj\Debug\net5.0\Hackehank-Tree-Height-of-a-Binary-Tree.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\Hackehank-Tree-Height-of-a-Binary-Tree\Hackehank-Tree-Height-of-a-Binary-Tree\obj\Debug\net5.0\Hackehank-Tree-Height-of-a-Binary-Tree.dll
+C:\Users\raphael.assis\source\repos\Hackehank-Tree-Height-of-a-Binary-Tree\Hackehank-Tree-Height-of-a-Binary-Tree\obj\Debug\net5.0\ref\Hackehank-Tree-Height-of-a-Binary-Tree.dll
+C:\Users\raphael.assis\source\repos\Hackehank-Tree-Height-of-a-Binary-Tree\Hackehank-Tree-Height-of-a-Binary-Tree\obj\Debug\net5.0\Hackehank-Tree-Height-of-a-Binary-Tree.pdb
+C:\Users\raphael.assis\source\repos\Hackehank-Tree-Height-of-a-Binary-Tree\Hackehank-Tree-Height-of-a-Binary-Tree\obj\Debug\net5.0\Hackehank-Tree-Height-of-a-Binary-Tree.genruntimeconfig.cache

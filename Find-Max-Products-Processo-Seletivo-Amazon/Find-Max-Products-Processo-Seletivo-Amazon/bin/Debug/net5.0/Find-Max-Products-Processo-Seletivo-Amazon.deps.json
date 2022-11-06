@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Find-Max-Products-Processo-Seletivo-Amazon/1.0.0": {
+        "runtime": {
+          "Find-Max-Products-Processo-Seletivo-Amazon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find-Max-Products-Processo-Seletivo-Amazon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

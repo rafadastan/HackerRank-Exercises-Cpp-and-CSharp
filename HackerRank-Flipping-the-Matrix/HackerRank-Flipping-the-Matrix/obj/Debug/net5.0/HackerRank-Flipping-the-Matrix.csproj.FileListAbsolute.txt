@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\HackerRank-Flipping-the-Matrix\HackerRank-Flipping-the-Matrix\bin\Debug\net5.0\HackerRank-Flipping-the-Matrix.exe
+C:\Users\raphael.assis\source\repos\HackerRank-Flipping-the-Matrix\HackerRank-Flipping-the-Matrix\bin\Debug\net5.0\HackerRank-Flipping-the-Matrix.deps.json
+C:\Users\raphael.assis\source\repos\HackerRank-Flipping-the-Matrix\HackerRank-Flipping-the-Matrix\bin\Debug\net5.0\HackerRank-Flipping-the-Matrix.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\HackerRank-Flipping-the-Matrix\HackerRank-Flipping-the-Matrix\bin\Debug\net5.0\HackerRank-Flipping-the-Matrix.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\HackerRank-Flipping-the-Matrix\HackerRank-Flipping-the-Matrix\bin\Debug\net5.0\HackerRank-Flipping-the-Matrix.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Flipping-the-Matrix\HackerRank-Flipping-the-Matrix\bin\Debug\net5.0\ref\HackerRank-Flipping-the-Matrix.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Flipping-the-Matrix\HackerRank-Flipping-the-Matrix\bin\Debug\net5.0\HackerRank-Flipping-the-Matrix.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-Flipping-the-Matrix\HackerRank-Flipping-the-Matrix\obj\Debug\net5.0\HackerRank-Flipping-the-Matrix.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Flipping-the-Matrix\HackerRank-Flipping-the-Matrix\obj\Debug\net5.0\HackerRank-Flipping-the-Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\HackerRank-Flipping-the-Matrix\HackerRank-Flipping-the-Matrix\obj\Debug\net5.0\HackerRank-Flipping-the-Matrix.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Flipping-the-Matrix\HackerRank-Flipping-the-Matrix\obj\Debug\net5.0\HackerRank-Flipping-the-Matrix.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\HackerRank-Flipping-the-Matrix\HackerRank-Flipping-the-Matrix\obj\Debug\net5.0\HackerRank-Flipping-the-Matrix.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Flipping-the-Matrix\HackerRank-Flipping-the-Matrix\obj\Debug\net5.0\HackerRank-Flipping-the-Matrix.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Flipping-the-Matrix\HackerRank-Flipping-the-Matrix\obj\Debug\net5.0\ref\HackerRank-Flipping-the-Matrix.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Flipping-the-Matrix\HackerRank-Flipping-the-Matrix\obj\Debug\net5.0\HackerRank-Flipping-the-Matrix.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-Flipping-the-Matrix\HackerRank-Flipping-the-Matrix\obj\Debug\net5.0\HackerRank-Flipping-the-Matrix.genruntimeconfig.cache

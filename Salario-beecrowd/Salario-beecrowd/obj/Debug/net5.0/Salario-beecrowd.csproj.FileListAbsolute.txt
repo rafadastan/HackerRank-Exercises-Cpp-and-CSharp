@@ -1,0 +1,15 @@
+C:\Users\raphael.assis\source\repos\Salario-beecrowd\Salario-beecrowd\bin\Debug\net5.0\Salario-beecrowd.exe
+C:\Users\raphael.assis\source\repos\Salario-beecrowd\Salario-beecrowd\bin\Debug\net5.0\Salario-beecrowd.deps.json
+C:\Users\raphael.assis\source\repos\Salario-beecrowd\Salario-beecrowd\bin\Debug\net5.0\Salario-beecrowd.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\Salario-beecrowd\Salario-beecrowd\bin\Debug\net5.0\Salario-beecrowd.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\Salario-beecrowd\Salario-beecrowd\bin\Debug\net5.0\Salario-beecrowd.dll
+C:\Users\raphael.assis\source\repos\Salario-beecrowd\Salario-beecrowd\bin\Debug\net5.0\ref\Salario-beecrowd.dll
+C:\Users\raphael.assis\source\repos\Salario-beecrowd\Salario-beecrowd\bin\Debug\net5.0\Salario-beecrowd.pdb
+C:\Users\raphael.assis\source\repos\Salario-beecrowd\Salario-beecrowd\obj\Debug\net5.0\Salario-beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\Salario-beecrowd\Salario-beecrowd\obj\Debug\net5.0\Salario-beecrowd.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\Salario-beecrowd\Salario-beecrowd\obj\Debug\net5.0\Salario-beecrowd.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\Salario-beecrowd\Salario-beecrowd\obj\Debug\net5.0\Salario-beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\Salario-beecrowd\Salario-beecrowd\obj\Debug\net5.0\Salario-beecrowd.dll
+C:\Users\raphael.assis\source\repos\Salario-beecrowd\Salario-beecrowd\obj\Debug\net5.0\ref\Salario-beecrowd.dll
+C:\Users\raphael.assis\source\repos\Salario-beecrowd\Salario-beecrowd\obj\Debug\net5.0\Salario-beecrowd.pdb
+C:\Users\raphael.assis\source\repos\Salario-beecrowd\Salario-beecrowd\obj\Debug\net5.0\Salario-beecrowd.genruntimeconfig.cache

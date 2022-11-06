@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\HackerRank-Level-Order-Traversal\HackerRank-Level-Order-Traversal\bin\Debug\net5.0\HackerRank-Level-Order-Traversal.exe
+C:\Users\raphael.assis\source\repos\HackerRank-Level-Order-Traversal\HackerRank-Level-Order-Traversal\bin\Debug\net5.0\HackerRank-Level-Order-Traversal.deps.json
+C:\Users\raphael.assis\source\repos\HackerRank-Level-Order-Traversal\HackerRank-Level-Order-Traversal\bin\Debug\net5.0\HackerRank-Level-Order-Traversal.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\HackerRank-Level-Order-Traversal\HackerRank-Level-Order-Traversal\bin\Debug\net5.0\HackerRank-Level-Order-Traversal.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\HackerRank-Level-Order-Traversal\HackerRank-Level-Order-Traversal\bin\Debug\net5.0\HackerRank-Level-Order-Traversal.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Level-Order-Traversal\HackerRank-Level-Order-Traversal\bin\Debug\net5.0\ref\HackerRank-Level-Order-Traversal.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Level-Order-Traversal\HackerRank-Level-Order-Traversal\bin\Debug\net5.0\HackerRank-Level-Order-Traversal.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-Level-Order-Traversal\HackerRank-Level-Order-Traversal\obj\Debug\net5.0\HackerRank-Level-Order-Traversal.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Level-Order-Traversal\HackerRank-Level-Order-Traversal\obj\Debug\net5.0\HackerRank-Level-Order-Traversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\HackerRank-Level-Order-Traversal\HackerRank-Level-Order-Traversal\obj\Debug\net5.0\HackerRank-Level-Order-Traversal.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Level-Order-Traversal\HackerRank-Level-Order-Traversal\obj\Debug\net5.0\HackerRank-Level-Order-Traversal.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\HackerRank-Level-Order-Traversal\HackerRank-Level-Order-Traversal\obj\Debug\net5.0\HackerRank-Level-Order-Traversal.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Level-Order-Traversal\HackerRank-Level-Order-Traversal\obj\Debug\net5.0\HackerRank-Level-Order-Traversal.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Level-Order-Traversal\HackerRank-Level-Order-Traversal\obj\Debug\net5.0\ref\HackerRank-Level-Order-Traversal.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Level-Order-Traversal\HackerRank-Level-Order-Traversal\obj\Debug\net5.0\HackerRank-Level-Order-Traversal.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-Level-Order-Traversal\HackerRank-Level-Order-Traversal\obj\Debug\net5.0\HackerRank-Level-Order-Traversal.genruntimeconfig.cache

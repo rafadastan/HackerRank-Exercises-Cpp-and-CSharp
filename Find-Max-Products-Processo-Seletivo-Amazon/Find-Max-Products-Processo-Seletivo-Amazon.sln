@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find-Max-Products-Processo-Seletivo-Amazon", "Find-Max-Products-Processo-Seletivo-Amazon\Find-Max-Products-Processo-Seletivo-Amazon.csproj", "{5E5BF0D0-C109-4D21-9D90-1B180288FA45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "find-max-products-correct-answer-amazon", "find-max-products-correct-answer-amazon\find-max-products-correct-answer-amazon.csproj", "{E56C70A1-2E93-4E7D-9FC5-5C758A86D1BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E5BF0D0-C109-4D21-9D90-1B180288FA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5BF0D0-C109-4D21-9D90-1B180288FA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5BF0D0-C109-4D21-9D90-1B180288FA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5BF0D0-C109-4D21-9D90-1B180288FA45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E56C70A1-2E93-4E7D-9FC5-5C758A86D1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E56C70A1-2E93-4E7D-9FC5-5C758A86D1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E56C70A1-2E93-4E7D-9FC5-5C758A86D1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E56C70A1-2E93-4E7D-9FC5-5C758A86D1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA9D91C4-BB12-4E5F-A337-F27CBC7D933D}
+	EndGlobalSection
+EndGlobal

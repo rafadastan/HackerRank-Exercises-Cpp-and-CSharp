@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\HackerRack-Diagonal-Difference\HackerRack-Diagonal-Difference\bin\Debug\net5.0\HackerRack-Diagonal-Difference.exe
+C:\Users\raphael.assis\source\repos\HackerRack-Diagonal-Difference\HackerRack-Diagonal-Difference\bin\Debug\net5.0\HackerRack-Diagonal-Difference.deps.json
+C:\Users\raphael.assis\source\repos\HackerRack-Diagonal-Difference\HackerRack-Diagonal-Difference\bin\Debug\net5.0\HackerRack-Diagonal-Difference.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\HackerRack-Diagonal-Difference\HackerRack-Diagonal-Difference\bin\Debug\net5.0\HackerRack-Diagonal-Difference.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\HackerRack-Diagonal-Difference\HackerRack-Diagonal-Difference\bin\Debug\net5.0\HackerRack-Diagonal-Difference.dll
+C:\Users\raphael.assis\source\repos\HackerRack-Diagonal-Difference\HackerRack-Diagonal-Difference\bin\Debug\net5.0\ref\HackerRack-Diagonal-Difference.dll
+C:\Users\raphael.assis\source\repos\HackerRack-Diagonal-Difference\HackerRack-Diagonal-Difference\bin\Debug\net5.0\HackerRack-Diagonal-Difference.pdb
+C:\Users\raphael.assis\source\repos\HackerRack-Diagonal-Difference\HackerRack-Diagonal-Difference\obj\Debug\net5.0\HackerRack-Diagonal-Difference.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\HackerRack-Diagonal-Difference\HackerRack-Diagonal-Difference\obj\Debug\net5.0\HackerRack-Diagonal-Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\HackerRack-Diagonal-Difference\HackerRack-Diagonal-Difference\obj\Debug\net5.0\HackerRack-Diagonal-Difference.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRack-Diagonal-Difference\HackerRack-Diagonal-Difference\obj\Debug\net5.0\HackerRack-Diagonal-Difference.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\HackerRack-Diagonal-Difference\HackerRack-Diagonal-Difference\obj\Debug\net5.0\HackerRack-Diagonal-Difference.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRack-Diagonal-Difference\HackerRack-Diagonal-Difference\obj\Debug\net5.0\HackerRack-Diagonal-Difference.dll
+C:\Users\raphael.assis\source\repos\HackerRack-Diagonal-Difference\HackerRack-Diagonal-Difference\obj\Debug\net5.0\ref\HackerRack-Diagonal-Difference.dll
+C:\Users\raphael.assis\source\repos\HackerRack-Diagonal-Difference\HackerRack-Diagonal-Difference\obj\Debug\net5.0\HackerRack-Diagonal-Difference.pdb
+C:\Users\raphael.assis\source\repos\HackerRack-Diagonal-Difference\HackerRack-Diagonal-Difference\obj\Debug\net5.0\HackerRack-Diagonal-Difference.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank-Recursive-Digit-Sum", "HackerRank-Recursive-Digit-Sum\HackerRank-Recursive-Digit-Sum.csproj", "{4636BDAC-049A-4CCA-AD63-6198A3C10854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList-Net", "LinkedList-Net\LinkedList-Net.csproj", "{5BE049ED-1D01-4455-BF1C-21DE3A5244BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4636BDAC-049A-4CCA-AD63-6198A3C10854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4636BDAC-049A-4CCA-AD63-6198A3C10854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4636BDAC-049A-4CCA-AD63-6198A3C10854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4636BDAC-049A-4CCA-AD63-6198A3C10854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE049ED-1D01-4455-BF1C-21DE3A5244BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE049ED-1D01-4455-BF1C-21DE3A5244BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE049ED-1D01-4455-BF1C-21DE3A5244BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE049ED-1D01-4455-BF1C-21DE3A5244BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {662301C2-5998-4956-A97D-95EF4CFF046C}
+	EndGlobalSection
+EndGlobal

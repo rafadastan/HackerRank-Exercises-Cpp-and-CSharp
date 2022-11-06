@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\HackerHank-Caesar-Chiper\HackerHank-Caesar-Chiper\bin\Debug\net5.0\HackerHank-Caesar-Chiper.exe
+C:\Users\raphael.assis\source\repos\HackerHank-Caesar-Chiper\HackerHank-Caesar-Chiper\bin\Debug\net5.0\HackerHank-Caesar-Chiper.deps.json
+C:\Users\raphael.assis\source\repos\HackerHank-Caesar-Chiper\HackerHank-Caesar-Chiper\bin\Debug\net5.0\HackerHank-Caesar-Chiper.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\HackerHank-Caesar-Chiper\HackerHank-Caesar-Chiper\bin\Debug\net5.0\HackerHank-Caesar-Chiper.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\HackerHank-Caesar-Chiper\HackerHank-Caesar-Chiper\bin\Debug\net5.0\HackerHank-Caesar-Chiper.dll
+C:\Users\raphael.assis\source\repos\HackerHank-Caesar-Chiper\HackerHank-Caesar-Chiper\bin\Debug\net5.0\ref\HackerHank-Caesar-Chiper.dll
+C:\Users\raphael.assis\source\repos\HackerHank-Caesar-Chiper\HackerHank-Caesar-Chiper\bin\Debug\net5.0\HackerHank-Caesar-Chiper.pdb
+C:\Users\raphael.assis\source\repos\HackerHank-Caesar-Chiper\HackerHank-Caesar-Chiper\obj\Debug\net5.0\HackerHank-Caesar-Chiper.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\HackerHank-Caesar-Chiper\HackerHank-Caesar-Chiper\obj\Debug\net5.0\HackerHank-Caesar-Chiper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\HackerHank-Caesar-Chiper\HackerHank-Caesar-Chiper\obj\Debug\net5.0\HackerHank-Caesar-Chiper.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\HackerHank-Caesar-Chiper\HackerHank-Caesar-Chiper\obj\Debug\net5.0\HackerHank-Caesar-Chiper.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\HackerHank-Caesar-Chiper\HackerHank-Caesar-Chiper\obj\Debug\net5.0\HackerHank-Caesar-Chiper.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\HackerHank-Caesar-Chiper\HackerHank-Caesar-Chiper\obj\Debug\net5.0\HackerHank-Caesar-Chiper.dll
+C:\Users\raphael.assis\source\repos\HackerHank-Caesar-Chiper\HackerHank-Caesar-Chiper\obj\Debug\net5.0\ref\HackerHank-Caesar-Chiper.dll
+C:\Users\raphael.assis\source\repos\HackerHank-Caesar-Chiper\HackerHank-Caesar-Chiper\obj\Debug\net5.0\HackerHank-Caesar-Chiper.pdb
+C:\Users\raphael.assis\source\repos\HackerHank-Caesar-Chiper\HackerHank-Caesar-Chiper\obj\Debug\net5.0\HackerHank-Caesar-Chiper.genruntimeconfig.cache

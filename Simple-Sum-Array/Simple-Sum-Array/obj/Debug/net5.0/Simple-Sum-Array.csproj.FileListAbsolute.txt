@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\Simple-Sum-Array\Simple-Sum-Array\bin\Debug\net5.0\Simple-Sum-Array.exe
+C:\Users\raphael.assis\source\repos\Simple-Sum-Array\Simple-Sum-Array\bin\Debug\net5.0\Simple-Sum-Array.deps.json
+C:\Users\raphael.assis\source\repos\Simple-Sum-Array\Simple-Sum-Array\bin\Debug\net5.0\Simple-Sum-Array.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\Simple-Sum-Array\Simple-Sum-Array\bin\Debug\net5.0\Simple-Sum-Array.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\Simple-Sum-Array\Simple-Sum-Array\bin\Debug\net5.0\Simple-Sum-Array.dll
+C:\Users\raphael.assis\source\repos\Simple-Sum-Array\Simple-Sum-Array\bin\Debug\net5.0\ref\Simple-Sum-Array.dll
+C:\Users\raphael.assis\source\repos\Simple-Sum-Array\Simple-Sum-Array\bin\Debug\net5.0\Simple-Sum-Array.pdb
+C:\Users\raphael.assis\source\repos\Simple-Sum-Array\Simple-Sum-Array\obj\Debug\net5.0\Simple-Sum-Array.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\Simple-Sum-Array\Simple-Sum-Array\obj\Debug\net5.0\Simple-Sum-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\Simple-Sum-Array\Simple-Sum-Array\obj\Debug\net5.0\Simple-Sum-Array.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\Simple-Sum-Array\Simple-Sum-Array\obj\Debug\net5.0\Simple-Sum-Array.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\Simple-Sum-Array\Simple-Sum-Array\obj\Debug\net5.0\Simple-Sum-Array.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\Simple-Sum-Array\Simple-Sum-Array\obj\Debug\net5.0\Simple-Sum-Array.dll
+C:\Users\raphael.assis\source\repos\Simple-Sum-Array\Simple-Sum-Array\obj\Debug\net5.0\ref\Simple-Sum-Array.dll
+C:\Users\raphael.assis\source\repos\Simple-Sum-Array\Simple-Sum-Array\obj\Debug\net5.0\Simple-Sum-Array.pdb
+C:\Users\raphael.assis\source\repos\Simple-Sum-Array\Simple-Sum-Array\obj\Debug\net5.0\Simple-Sum-Array.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\HackerRank-Search-Median\HackerRank-Search-Median\bin\Debug\net5.0\HackerRank-Search-Median.exe
+C:\Users\raphael.assis\source\repos\HackerRank-Search-Median\HackerRank-Search-Median\bin\Debug\net5.0\HackerRank-Search-Median.deps.json
+C:\Users\raphael.assis\source\repos\HackerRank-Search-Median\HackerRank-Search-Median\bin\Debug\net5.0\HackerRank-Search-Median.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\HackerRank-Search-Median\HackerRank-Search-Median\bin\Debug\net5.0\HackerRank-Search-Median.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\HackerRank-Search-Median\HackerRank-Search-Median\bin\Debug\net5.0\HackerRank-Search-Median.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Search-Median\HackerRank-Search-Median\bin\Debug\net5.0\ref\HackerRank-Search-Median.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Search-Median\HackerRank-Search-Median\bin\Debug\net5.0\HackerRank-Search-Median.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-Search-Median\HackerRank-Search-Median\obj\Debug\net5.0\HackerRank-Search-Median.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\HackerRank-Search-Median\HackerRank-Search-Median\obj\Debug\net5.0\HackerRank-Search-Median.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Search-Median\HackerRank-Search-Median\obj\Debug\net5.0\HackerRank-Search-Median.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\HackerRank-Search-Median\HackerRank-Search-Median\obj\Debug\net5.0\HackerRank-Search-Median.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Search-Median\HackerRank-Search-Median\obj\Debug\net5.0\HackerRank-Search-Median.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Search-Median\HackerRank-Search-Median\obj\Debug\net5.0\ref\HackerRank-Search-Median.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Search-Median\HackerRank-Search-Median\obj\Debug\net5.0\HackerRank-Search-Median.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-Search-Median\HackerRank-Search-Median\obj\Debug\net5.0\HackerRank-Search-Median.genruntimeconfig.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Search-Median\HackerRank-Search-Median\obj\Debug\net5.0\HackerRank-Search-Median.csproj.AssemblyReference.cache

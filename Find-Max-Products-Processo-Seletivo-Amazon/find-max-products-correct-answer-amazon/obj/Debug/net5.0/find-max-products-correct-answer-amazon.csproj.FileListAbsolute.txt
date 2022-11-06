@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\find-max-products-correct-answer-amazon\bin\Debug\net5.0\find-max-products-correct-answer-amazon.exe
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\find-max-products-correct-answer-amazon\bin\Debug\net5.0\find-max-products-correct-answer-amazon.deps.json
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\find-max-products-correct-answer-amazon\bin\Debug\net5.0\find-max-products-correct-answer-amazon.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\find-max-products-correct-answer-amazon\bin\Debug\net5.0\find-max-products-correct-answer-amazon.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\find-max-products-correct-answer-amazon\bin\Debug\net5.0\find-max-products-correct-answer-amazon.dll
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\find-max-products-correct-answer-amazon\bin\Debug\net5.0\ref\find-max-products-correct-answer-amazon.dll
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\find-max-products-correct-answer-amazon\bin\Debug\net5.0\find-max-products-correct-answer-amazon.pdb
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\find-max-products-correct-answer-amazon\obj\Debug\net5.0\find-max-products-correct-answer-amazon.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\find-max-products-correct-answer-amazon\obj\Debug\net5.0\find-max-products-correct-answer-amazon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\find-max-products-correct-answer-amazon\obj\Debug\net5.0\find-max-products-correct-answer-amazon.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\find-max-products-correct-answer-amazon\obj\Debug\net5.0\find-max-products-correct-answer-amazon.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\find-max-products-correct-answer-amazon\obj\Debug\net5.0\find-max-products-correct-answer-amazon.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\find-max-products-correct-answer-amazon\obj\Debug\net5.0\find-max-products-correct-answer-amazon.dll
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\find-max-products-correct-answer-amazon\obj\Debug\net5.0\ref\find-max-products-correct-answer-amazon.dll
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\find-max-products-correct-answer-amazon\obj\Debug\net5.0\find-max-products-correct-answer-amazon.pdb
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\find-max-products-correct-answer-amazon\obj\Debug\net5.0\find-max-products-correct-answer-amazon.genruntimeconfig.cache

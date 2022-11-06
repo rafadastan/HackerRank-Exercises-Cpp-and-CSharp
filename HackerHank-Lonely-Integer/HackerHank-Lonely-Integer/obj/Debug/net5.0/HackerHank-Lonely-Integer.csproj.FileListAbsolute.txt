@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\HackerHank-Lonely-Integer\HackerHank-Lonely-Integer\bin\Debug\net5.0\HackerHank-Lonely-Integer.exe
+C:\Users\raphael.assis\source\repos\HackerHank-Lonely-Integer\HackerHank-Lonely-Integer\bin\Debug\net5.0\HackerHank-Lonely-Integer.deps.json
+C:\Users\raphael.assis\source\repos\HackerHank-Lonely-Integer\HackerHank-Lonely-Integer\bin\Debug\net5.0\HackerHank-Lonely-Integer.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\HackerHank-Lonely-Integer\HackerHank-Lonely-Integer\bin\Debug\net5.0\HackerHank-Lonely-Integer.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\HackerHank-Lonely-Integer\HackerHank-Lonely-Integer\bin\Debug\net5.0\HackerHank-Lonely-Integer.dll
+C:\Users\raphael.assis\source\repos\HackerHank-Lonely-Integer\HackerHank-Lonely-Integer\bin\Debug\net5.0\ref\HackerHank-Lonely-Integer.dll
+C:\Users\raphael.assis\source\repos\HackerHank-Lonely-Integer\HackerHank-Lonely-Integer\bin\Debug\net5.0\HackerHank-Lonely-Integer.pdb
+C:\Users\raphael.assis\source\repos\HackerHank-Lonely-Integer\HackerHank-Lonely-Integer\obj\Debug\net5.0\HackerHank-Lonely-Integer.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\HackerHank-Lonely-Integer\HackerHank-Lonely-Integer\obj\Debug\net5.0\HackerHank-Lonely-Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\HackerHank-Lonely-Integer\HackerHank-Lonely-Integer\obj\Debug\net5.0\HackerHank-Lonely-Integer.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\HackerHank-Lonely-Integer\HackerHank-Lonely-Integer\obj\Debug\net5.0\HackerHank-Lonely-Integer.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\HackerHank-Lonely-Integer\HackerHank-Lonely-Integer\obj\Debug\net5.0\HackerHank-Lonely-Integer.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\HackerHank-Lonely-Integer\HackerHank-Lonely-Integer\obj\Debug\net5.0\HackerHank-Lonely-Integer.dll
+C:\Users\raphael.assis\source\repos\HackerHank-Lonely-Integer\HackerHank-Lonely-Integer\obj\Debug\net5.0\ref\HackerHank-Lonely-Integer.dll
+C:\Users\raphael.assis\source\repos\HackerHank-Lonely-Integer\HackerHank-Lonely-Integer\obj\Debug\net5.0\HackerHank-Lonely-Integer.pdb
+C:\Users\raphael.assis\source\repos\HackerHank-Lonely-Integer\HackerHank-Lonely-Integer\obj\Debug\net5.0\HackerHank-Lonely-Integer.genruntimeconfig.cache

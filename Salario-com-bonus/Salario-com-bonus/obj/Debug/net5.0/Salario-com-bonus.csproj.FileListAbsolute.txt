@@ -1,0 +1,15 @@
+C:\Users\raphael.assis\source\repos\Salario-com-bonus\Salario-com-bonus\bin\Debug\net5.0\Salario-com-bonus.exe
+C:\Users\raphael.assis\source\repos\Salario-com-bonus\Salario-com-bonus\bin\Debug\net5.0\Salario-com-bonus.deps.json
+C:\Users\raphael.assis\source\repos\Salario-com-bonus\Salario-com-bonus\bin\Debug\net5.0\Salario-com-bonus.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\Salario-com-bonus\Salario-com-bonus\bin\Debug\net5.0\Salario-com-bonus.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\Salario-com-bonus\Salario-com-bonus\bin\Debug\net5.0\Salario-com-bonus.dll
+C:\Users\raphael.assis\source\repos\Salario-com-bonus\Salario-com-bonus\bin\Debug\net5.0\ref\Salario-com-bonus.dll
+C:\Users\raphael.assis\source\repos\Salario-com-bonus\Salario-com-bonus\bin\Debug\net5.0\Salario-com-bonus.pdb
+C:\Users\raphael.assis\source\repos\Salario-com-bonus\Salario-com-bonus\obj\Debug\net5.0\Salario-com-bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\Salario-com-bonus\Salario-com-bonus\obj\Debug\net5.0\Salario-com-bonus.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\Salario-com-bonus\Salario-com-bonus\obj\Debug\net5.0\Salario-com-bonus.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\Salario-com-bonus\Salario-com-bonus\obj\Debug\net5.0\Salario-com-bonus.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\Salario-com-bonus\Salario-com-bonus\obj\Debug\net5.0\Salario-com-bonus.dll
+C:\Users\raphael.assis\source\repos\Salario-com-bonus\Salario-com-bonus\obj\Debug\net5.0\ref\Salario-com-bonus.dll
+C:\Users\raphael.assis\source\repos\Salario-com-bonus\Salario-com-bonus\obj\Debug\net5.0\Salario-com-bonus.pdb
+C:\Users\raphael.assis\source\repos\Salario-com-bonus\Salario-com-bonus\obj\Debug\net5.0\Salario-com-bonus.genruntimeconfig.cache

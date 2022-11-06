@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\Time-Conversation\Time-Conversation\bin\Debug\net5.0\Time-Conversation.exe
+C:\Users\raphael.assis\source\repos\Time-Conversation\Time-Conversation\bin\Debug\net5.0\Time-Conversation.deps.json
+C:\Users\raphael.assis\source\repos\Time-Conversation\Time-Conversation\bin\Debug\net5.0\Time-Conversation.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\Time-Conversation\Time-Conversation\bin\Debug\net5.0\Time-Conversation.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\Time-Conversation\Time-Conversation\bin\Debug\net5.0\Time-Conversation.dll
+C:\Users\raphael.assis\source\repos\Time-Conversation\Time-Conversation\bin\Debug\net5.0\ref\Time-Conversation.dll
+C:\Users\raphael.assis\source\repos\Time-Conversation\Time-Conversation\bin\Debug\net5.0\Time-Conversation.pdb
+C:\Users\raphael.assis\source\repos\Time-Conversation\Time-Conversation\obj\Debug\net5.0\Time-Conversation.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\Time-Conversation\Time-Conversation\obj\Debug\net5.0\Time-Conversation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\Time-Conversation\Time-Conversation\obj\Debug\net5.0\Time-Conversation.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\Time-Conversation\Time-Conversation\obj\Debug\net5.0\Time-Conversation.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\Time-Conversation\Time-Conversation\obj\Debug\net5.0\Time-Conversation.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\Time-Conversation\Time-Conversation\obj\Debug\net5.0\Time-Conversation.dll
+C:\Users\raphael.assis\source\repos\Time-Conversation\Time-Conversation\obj\Debug\net5.0\ref\Time-Conversation.dll
+C:\Users\raphael.assis\source\repos\Time-Conversation\Time-Conversation\obj\Debug\net5.0\Time-Conversation.pdb
+C:\Users\raphael.assis\source\repos\Time-Conversation\Time-Conversation\obj\Debug\net5.0\Time-Conversation.genruntimeconfig.cache

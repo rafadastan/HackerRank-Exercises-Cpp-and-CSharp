@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\HackerRank-Counting-Sort-1\HackerRank-Counting-Sort-1\bin\Debug\net5.0\HackerRank-Counting-Sort-1.exe
+C:\Users\raphael.assis\source\repos\HackerRank-Counting-Sort-1\HackerRank-Counting-Sort-1\bin\Debug\net5.0\HackerRank-Counting-Sort-1.deps.json
+C:\Users\raphael.assis\source\repos\HackerRank-Counting-Sort-1\HackerRank-Counting-Sort-1\bin\Debug\net5.0\HackerRank-Counting-Sort-1.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\HackerRank-Counting-Sort-1\HackerRank-Counting-Sort-1\bin\Debug\net5.0\HackerRank-Counting-Sort-1.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\HackerRank-Counting-Sort-1\HackerRank-Counting-Sort-1\bin\Debug\net5.0\HackerRank-Counting-Sort-1.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Counting-Sort-1\HackerRank-Counting-Sort-1\bin\Debug\net5.0\ref\HackerRank-Counting-Sort-1.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Counting-Sort-1\HackerRank-Counting-Sort-1\bin\Debug\net5.0\HackerRank-Counting-Sort-1.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-Counting-Sort-1\HackerRank-Counting-Sort-1\obj\Debug\net5.0\HackerRank-Counting-Sort-1.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Counting-Sort-1\HackerRank-Counting-Sort-1\obj\Debug\net5.0\HackerRank-Counting-Sort-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\HackerRank-Counting-Sort-1\HackerRank-Counting-Sort-1\obj\Debug\net5.0\HackerRank-Counting-Sort-1.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Counting-Sort-1\HackerRank-Counting-Sort-1\obj\Debug\net5.0\HackerRank-Counting-Sort-1.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\HackerRank-Counting-Sort-1\HackerRank-Counting-Sort-1\obj\Debug\net5.0\HackerRank-Counting-Sort-1.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Counting-Sort-1\HackerRank-Counting-Sort-1\obj\Debug\net5.0\HackerRank-Counting-Sort-1.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Counting-Sort-1\HackerRank-Counting-Sort-1\obj\Debug\net5.0\ref\HackerRank-Counting-Sort-1.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Counting-Sort-1\HackerRank-Counting-Sort-1\obj\Debug\net5.0\HackerRank-Counting-Sort-1.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-Counting-Sort-1\HackerRank-Counting-Sort-1\obj\Debug\net5.0\HackerRank-Counting-Sort-1.genruntimeconfig.cache

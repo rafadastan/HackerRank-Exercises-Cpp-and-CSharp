@@ -1,0 +1,15 @@
+C:\Users\raphael.assis\source\repos\HackerHank-Palindrome-Index\HackerHank-Palindrome-Index-2\bin\Debug\net6.0\HackerHank-Palindrome-Index-2.exe
+C:\Users\raphael.assis\source\repos\HackerHank-Palindrome-Index\HackerHank-Palindrome-Index-2\bin\Debug\net6.0\HackerHank-Palindrome-Index-2.deps.json
+C:\Users\raphael.assis\source\repos\HackerHank-Palindrome-Index\HackerHank-Palindrome-Index-2\bin\Debug\net6.0\HackerHank-Palindrome-Index-2.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\HackerHank-Palindrome-Index\HackerHank-Palindrome-Index-2\bin\Debug\net6.0\HackerHank-Palindrome-Index-2.dll
+C:\Users\raphael.assis\source\repos\HackerHank-Palindrome-Index\HackerHank-Palindrome-Index-2\bin\Debug\net6.0\HackerHank-Palindrome-Index-2.pdb
+C:\Users\raphael.assis\source\repos\HackerHank-Palindrome-Index\HackerHank-Palindrome-Index-2\obj\Debug\net6.0\HackerHank-Palindrome-Index-2.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\HackerHank-Palindrome-Index\HackerHank-Palindrome-Index-2\obj\Debug\net6.0\HackerHank-Palindrome-Index-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\HackerHank-Palindrome-Index\HackerHank-Palindrome-Index-2\obj\Debug\net6.0\HackerHank-Palindrome-Index-2.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\HackerHank-Palindrome-Index\HackerHank-Palindrome-Index-2\obj\Debug\net6.0\HackerHank-Palindrome-Index-2.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\HackerHank-Palindrome-Index\HackerHank-Palindrome-Index-2\obj\Debug\net6.0\HackerHank-Palindrome-Index-2.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\HackerHank-Palindrome-Index\HackerHank-Palindrome-Index-2\obj\Debug\net6.0\HackerHank-Palindrome-Index-2.dll
+C:\Users\raphael.assis\source\repos\HackerHank-Palindrome-Index\HackerHank-Palindrome-Index-2\obj\Debug\net6.0\refint\HackerHank-Palindrome-Index-2.dll
+C:\Users\raphael.assis\source\repos\HackerHank-Palindrome-Index\HackerHank-Palindrome-Index-2\obj\Debug\net6.0\HackerHank-Palindrome-Index-2.pdb
+C:\Users\raphael.assis\source\repos\HackerHank-Palindrome-Index\HackerHank-Palindrome-Index-2\obj\Debug\net6.0\HackerHank-Palindrome-Index-2.genruntimeconfig.cache
+C:\Users\raphael.assis\source\repos\HackerHank-Palindrome-Index\HackerHank-Palindrome-Index-2\obj\Debug\net6.0\ref\HackerHank-Palindrome-Index-2.dll

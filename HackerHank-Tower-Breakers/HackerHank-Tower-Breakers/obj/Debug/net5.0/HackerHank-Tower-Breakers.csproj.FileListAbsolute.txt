@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\HackerHank-Tower-Breakers\HackerHank-Tower-Breakers\bin\Debug\net5.0\HackerHank-Tower-Breakers.exe
+C:\Users\raphael.assis\source\repos\HackerHank-Tower-Breakers\HackerHank-Tower-Breakers\bin\Debug\net5.0\HackerHank-Tower-Breakers.deps.json
+C:\Users\raphael.assis\source\repos\HackerHank-Tower-Breakers\HackerHank-Tower-Breakers\bin\Debug\net5.0\HackerHank-Tower-Breakers.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\HackerHank-Tower-Breakers\HackerHank-Tower-Breakers\bin\Debug\net5.0\HackerHank-Tower-Breakers.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\HackerHank-Tower-Breakers\HackerHank-Tower-Breakers\bin\Debug\net5.0\HackerHank-Tower-Breakers.dll
+C:\Users\raphael.assis\source\repos\HackerHank-Tower-Breakers\HackerHank-Tower-Breakers\bin\Debug\net5.0\ref\HackerHank-Tower-Breakers.dll
+C:\Users\raphael.assis\source\repos\HackerHank-Tower-Breakers\HackerHank-Tower-Breakers\bin\Debug\net5.0\HackerHank-Tower-Breakers.pdb
+C:\Users\raphael.assis\source\repos\HackerHank-Tower-Breakers\HackerHank-Tower-Breakers\obj\Debug\net5.0\HackerHank-Tower-Breakers.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\HackerHank-Tower-Breakers\HackerHank-Tower-Breakers\obj\Debug\net5.0\HackerHank-Tower-Breakers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\HackerHank-Tower-Breakers\HackerHank-Tower-Breakers\obj\Debug\net5.0\HackerHank-Tower-Breakers.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\HackerHank-Tower-Breakers\HackerHank-Tower-Breakers\obj\Debug\net5.0\HackerHank-Tower-Breakers.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\HackerHank-Tower-Breakers\HackerHank-Tower-Breakers\obj\Debug\net5.0\HackerHank-Tower-Breakers.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\HackerHank-Tower-Breakers\HackerHank-Tower-Breakers\obj\Debug\net5.0\HackerHank-Tower-Breakers.dll
+C:\Users\raphael.assis\source\repos\HackerHank-Tower-Breakers\HackerHank-Tower-Breakers\obj\Debug\net5.0\ref\HackerHank-Tower-Breakers.dll
+C:\Users\raphael.assis\source\repos\HackerHank-Tower-Breakers\HackerHank-Tower-Breakers\obj\Debug\net5.0\HackerHank-Tower-Breakers.pdb
+C:\Users\raphael.assis\source\repos\HackerHank-Tower-Breakers\HackerHank-Tower-Breakers\obj\Debug\net5.0\HackerHank-Tower-Breakers.genruntimeconfig.cache

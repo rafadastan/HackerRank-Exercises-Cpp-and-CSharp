@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank-Flipping-the-Matrix", "HackerRank-Flipping-the-Matrix\HackerRank-Flipping-the-Matrix.csproj", "{6B89992B-2F92-4462-8EC7-0D4F39279456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B89992B-2F92-4462-8EC7-0D4F39279456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B89992B-2F92-4462-8EC7-0D4F39279456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B89992B-2F92-4462-8EC7-0D4F39279456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B89992B-2F92-4462-8EC7-0D4F39279456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10E2C3CC-7A03-4050-A605-0CFB249FA686}
+	EndGlobalSection
+EndGlobal

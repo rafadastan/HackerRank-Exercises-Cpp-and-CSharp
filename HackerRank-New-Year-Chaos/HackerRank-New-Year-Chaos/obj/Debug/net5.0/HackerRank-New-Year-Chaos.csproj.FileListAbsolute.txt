@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\HackerRank-New-Year-Chaos\HackerRank-New-Year-Chaos\bin\Debug\net5.0\HackerRank-New-Year-Chaos.exe
+C:\Users\raphael.assis\source\repos\HackerRank-New-Year-Chaos\HackerRank-New-Year-Chaos\bin\Debug\net5.0\HackerRank-New-Year-Chaos.deps.json
+C:\Users\raphael.assis\source\repos\HackerRank-New-Year-Chaos\HackerRank-New-Year-Chaos\bin\Debug\net5.0\HackerRank-New-Year-Chaos.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\HackerRank-New-Year-Chaos\HackerRank-New-Year-Chaos\bin\Debug\net5.0\HackerRank-New-Year-Chaos.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\HackerRank-New-Year-Chaos\HackerRank-New-Year-Chaos\bin\Debug\net5.0\HackerRank-New-Year-Chaos.dll
+C:\Users\raphael.assis\source\repos\HackerRank-New-Year-Chaos\HackerRank-New-Year-Chaos\bin\Debug\net5.0\HackerRank-New-Year-Chaos.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-New-Year-Chaos\HackerRank-New-Year-Chaos\obj\Debug\net5.0\HackerRank-New-Year-Chaos.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\HackerRank-New-Year-Chaos\HackerRank-New-Year-Chaos\obj\Debug\net5.0\HackerRank-New-Year-Chaos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\HackerRank-New-Year-Chaos\HackerRank-New-Year-Chaos\obj\Debug\net5.0\HackerRank-New-Year-Chaos.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-New-Year-Chaos\HackerRank-New-Year-Chaos\obj\Debug\net5.0\HackerRank-New-Year-Chaos.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\HackerRank-New-Year-Chaos\HackerRank-New-Year-Chaos\obj\Debug\net5.0\HackerRank-New-Year-Chaos.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-New-Year-Chaos\HackerRank-New-Year-Chaos\obj\Debug\net5.0\HackerRank-New-Year-Chaos.dll
+C:\Users\raphael.assis\source\repos\HackerRank-New-Year-Chaos\HackerRank-New-Year-Chaos\obj\Debug\net5.0\refint\HackerRank-New-Year-Chaos.dll
+C:\Users\raphael.assis\source\repos\HackerRank-New-Year-Chaos\HackerRank-New-Year-Chaos\obj\Debug\net5.0\HackerRank-New-Year-Chaos.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-New-Year-Chaos\HackerRank-New-Year-Chaos\obj\Debug\net5.0\HackerRank-New-Year-Chaos.genruntimeconfig.cache
+C:\Users\raphael.assis\source\repos\HackerRank-New-Year-Chaos\HackerRank-New-Year-Chaos\obj\Debug\net5.0\ref\HackerRank-New-Year-Chaos.dll

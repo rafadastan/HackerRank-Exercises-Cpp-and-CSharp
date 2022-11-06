@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackehank-Tree-Height-of-a-Binary-Tree", "Hackehank-Tree-Height-of-a-Binary-Tree\Hackehank-Tree-Height-of-a-Binary-Tree.csproj", "{55F33395-DE4A-4172-B218-E76CE5B9E09D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55F33395-DE4A-4172-B218-E76CE5B9E09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F33395-DE4A-4172-B218-E76CE5B9E09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F33395-DE4A-4172-B218-E76CE5B9E09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F33395-DE4A-4172-B218-E76CE5B9E09D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B18A0063-0960-4A51-80E9-6239D1F6AE09}
+	EndGlobalSection
+EndGlobal

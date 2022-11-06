@@ -1,0 +1,15 @@
+C:\Users\raphael.assis\source\repos\HackerRank-FizzBuzz\HackerRank-FizzBuzz\bin\Debug\net5.0\HackerRank-FizzBuzz.exe
+C:\Users\raphael.assis\source\repos\HackerRank-FizzBuzz\HackerRank-FizzBuzz\bin\Debug\net5.0\HackerRank-FizzBuzz.deps.json
+C:\Users\raphael.assis\source\repos\HackerRank-FizzBuzz\HackerRank-FizzBuzz\bin\Debug\net5.0\HackerRank-FizzBuzz.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\HackerRank-FizzBuzz\HackerRank-FizzBuzz\bin\Debug\net5.0\HackerRank-FizzBuzz.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\HackerRank-FizzBuzz\HackerRank-FizzBuzz\bin\Debug\net5.0\HackerRank-FizzBuzz.dll
+C:\Users\raphael.assis\source\repos\HackerRank-FizzBuzz\HackerRank-FizzBuzz\bin\Debug\net5.0\ref\HackerRank-FizzBuzz.dll
+C:\Users\raphael.assis\source\repos\HackerRank-FizzBuzz\HackerRank-FizzBuzz\bin\Debug\net5.0\HackerRank-FizzBuzz.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-FizzBuzz\HackerRank-FizzBuzz\obj\Debug\net5.0\HackerRank-FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\HackerRank-FizzBuzz\HackerRank-FizzBuzz\obj\Debug\net5.0\HackerRank-FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-FizzBuzz\HackerRank-FizzBuzz\obj\Debug\net5.0\HackerRank-FizzBuzz.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\HackerRank-FizzBuzz\HackerRank-FizzBuzz\obj\Debug\net5.0\HackerRank-FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-FizzBuzz\HackerRank-FizzBuzz\obj\Debug\net5.0\HackerRank-FizzBuzz.dll
+C:\Users\raphael.assis\source\repos\HackerRank-FizzBuzz\HackerRank-FizzBuzz\obj\Debug\net5.0\ref\HackerRank-FizzBuzz.dll
+C:\Users\raphael.assis\source\repos\HackerRank-FizzBuzz\HackerRank-FizzBuzz\obj\Debug\net5.0\HackerRank-FizzBuzz.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-FizzBuzz\HackerRank-FizzBuzz\obj\Debug\net5.0\HackerRank-FizzBuzz.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank-Swap-Nodes-Algo", "HackerRank-Swap-Nodes-Algo\HackerRank-Swap-Nodes-Algo.csproj", "{1E1397F0-DE8E-44D7-B619-69824C5245B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank-Swap-Nodes-Algo-2", "HackerRank-Swap-Nodes-Algo-2\HackerRank-Swap-Nodes-Algo-2.csproj", "{7F74CE99-ECFC-4F8F-AB79-A6011A273A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E1397F0-DE8E-44D7-B619-69824C5245B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1397F0-DE8E-44D7-B619-69824C5245B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1397F0-DE8E-44D7-B619-69824C5245B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1397F0-DE8E-44D7-B619-69824C5245B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F74CE99-ECFC-4F8F-AB79-A6011A273A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F74CE99-ECFC-4F8F-AB79-A6011A273A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F74CE99-ECFC-4F8F-AB79-A6011A273A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F74CE99-ECFC-4F8F-AB79-A6011A273A66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17646E68-C929-41A7-ADDF-288C239BD0DD}
+	EndGlobalSection
+EndGlobal

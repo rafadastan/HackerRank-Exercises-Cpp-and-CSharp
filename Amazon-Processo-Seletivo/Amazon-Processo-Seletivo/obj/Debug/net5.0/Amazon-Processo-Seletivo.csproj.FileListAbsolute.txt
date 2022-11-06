@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\Amazon-Processo-Seletivo\Amazon-Processo-Seletivo\bin\Debug\net5.0\Amazon-Processo-Seletivo.exe
+C:\Users\raphael.assis\source\repos\Amazon-Processo-Seletivo\Amazon-Processo-Seletivo\bin\Debug\net5.0\Amazon-Processo-Seletivo.deps.json
+C:\Users\raphael.assis\source\repos\Amazon-Processo-Seletivo\Amazon-Processo-Seletivo\bin\Debug\net5.0\Amazon-Processo-Seletivo.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\Amazon-Processo-Seletivo\Amazon-Processo-Seletivo\bin\Debug\net5.0\Amazon-Processo-Seletivo.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\Amazon-Processo-Seletivo\Amazon-Processo-Seletivo\bin\Debug\net5.0\Amazon-Processo-Seletivo.dll
+C:\Users\raphael.assis\source\repos\Amazon-Processo-Seletivo\Amazon-Processo-Seletivo\bin\Debug\net5.0\ref\Amazon-Processo-Seletivo.dll
+C:\Users\raphael.assis\source\repos\Amazon-Processo-Seletivo\Amazon-Processo-Seletivo\bin\Debug\net5.0\Amazon-Processo-Seletivo.pdb
+C:\Users\raphael.assis\source\repos\Amazon-Processo-Seletivo\Amazon-Processo-Seletivo\obj\Debug\net5.0\Amazon-Processo-Seletivo.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\Amazon-Processo-Seletivo\Amazon-Processo-Seletivo\obj\Debug\net5.0\Amazon-Processo-Seletivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\Amazon-Processo-Seletivo\Amazon-Processo-Seletivo\obj\Debug\net5.0\Amazon-Processo-Seletivo.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\Amazon-Processo-Seletivo\Amazon-Processo-Seletivo\obj\Debug\net5.0\Amazon-Processo-Seletivo.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\Amazon-Processo-Seletivo\Amazon-Processo-Seletivo\obj\Debug\net5.0\Amazon-Processo-Seletivo.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\Amazon-Processo-Seletivo\Amazon-Processo-Seletivo\obj\Debug\net5.0\Amazon-Processo-Seletivo.dll
+C:\Users\raphael.assis\source\repos\Amazon-Processo-Seletivo\Amazon-Processo-Seletivo\obj\Debug\net5.0\ref\Amazon-Processo-Seletivo.dll
+C:\Users\raphael.assis\source\repos\Amazon-Processo-Seletivo\Amazon-Processo-Seletivo\obj\Debug\net5.0\Amazon-Processo-Seletivo.pdb
+C:\Users\raphael.assis\source\repos\Amazon-Processo-Seletivo\Amazon-Processo-Seletivo\obj\Debug\net5.0\Amazon-Processo-Seletivo.genruntimeconfig.cache

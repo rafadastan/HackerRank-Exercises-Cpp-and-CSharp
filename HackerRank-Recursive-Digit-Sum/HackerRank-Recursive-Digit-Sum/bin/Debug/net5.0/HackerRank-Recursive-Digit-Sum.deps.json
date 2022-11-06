@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HackerRank-Recursive-Digit-Sum/1.0.0": {
+        "runtime": {
+          "HackerRank-Recursive-Digit-Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HackerRank-Recursive-Digit-Sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

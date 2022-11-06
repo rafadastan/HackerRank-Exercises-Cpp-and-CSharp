@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\HackerRank-Balanced-Brackets\HackerRank-Balanced-Brackets\bin\Debug\net5.0\HackerRank-Balanced-Brackets.exe
+C:\Users\raphael.assis\source\repos\HackerRank-Balanced-Brackets\HackerRank-Balanced-Brackets\bin\Debug\net5.0\HackerRank-Balanced-Brackets.deps.json
+C:\Users\raphael.assis\source\repos\HackerRank-Balanced-Brackets\HackerRank-Balanced-Brackets\bin\Debug\net5.0\HackerRank-Balanced-Brackets.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\HackerRank-Balanced-Brackets\HackerRank-Balanced-Brackets\bin\Debug\net5.0\HackerRank-Balanced-Brackets.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\HackerRank-Balanced-Brackets\HackerRank-Balanced-Brackets\bin\Debug\net5.0\HackerRank-Balanced-Brackets.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Balanced-Brackets\HackerRank-Balanced-Brackets\bin\Debug\net5.0\ref\HackerRank-Balanced-Brackets.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Balanced-Brackets\HackerRank-Balanced-Brackets\bin\Debug\net5.0\HackerRank-Balanced-Brackets.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-Balanced-Brackets\HackerRank-Balanced-Brackets\obj\Debug\net5.0\HackerRank-Balanced-Brackets.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Balanced-Brackets\HackerRank-Balanced-Brackets\obj\Debug\net5.0\HackerRank-Balanced-Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\HackerRank-Balanced-Brackets\HackerRank-Balanced-Brackets\obj\Debug\net5.0\HackerRank-Balanced-Brackets.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Balanced-Brackets\HackerRank-Balanced-Brackets\obj\Debug\net5.0\HackerRank-Balanced-Brackets.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\HackerRank-Balanced-Brackets\HackerRank-Balanced-Brackets\obj\Debug\net5.0\HackerRank-Balanced-Brackets.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Balanced-Brackets\HackerRank-Balanced-Brackets\obj\Debug\net5.0\HackerRank-Balanced-Brackets.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Balanced-Brackets\HackerRank-Balanced-Brackets\obj\Debug\net5.0\ref\HackerRank-Balanced-Brackets.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Balanced-Brackets\HackerRank-Balanced-Brackets\obj\Debug\net5.0\HackerRank-Balanced-Brackets.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-Balanced-Brackets\HackerRank-Balanced-Brackets\obj\Debug\net5.0\HackerRank-Balanced-Brackets.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\MinAndMaxValue\MinAndMaxValue\bin\Debug\net5.0\MinAndMaxValue.exe
+C:\Users\raphael.assis\source\repos\MinAndMaxValue\MinAndMaxValue\bin\Debug\net5.0\MinAndMaxValue.deps.json
+C:\Users\raphael.assis\source\repos\MinAndMaxValue\MinAndMaxValue\bin\Debug\net5.0\MinAndMaxValue.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\MinAndMaxValue\MinAndMaxValue\bin\Debug\net5.0\MinAndMaxValue.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\MinAndMaxValue\MinAndMaxValue\bin\Debug\net5.0\MinAndMaxValue.dll
+C:\Users\raphael.assis\source\repos\MinAndMaxValue\MinAndMaxValue\bin\Debug\net5.0\ref\MinAndMaxValue.dll
+C:\Users\raphael.assis\source\repos\MinAndMaxValue\MinAndMaxValue\bin\Debug\net5.0\MinAndMaxValue.pdb
+C:\Users\raphael.assis\source\repos\MinAndMaxValue\MinAndMaxValue\obj\Debug\net5.0\MinAndMaxValue.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\MinAndMaxValue\MinAndMaxValue\obj\Debug\net5.0\MinAndMaxValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\MinAndMaxValue\MinAndMaxValue\obj\Debug\net5.0\MinAndMaxValue.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\MinAndMaxValue\MinAndMaxValue\obj\Debug\net5.0\MinAndMaxValue.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\MinAndMaxValue\MinAndMaxValue\obj\Debug\net5.0\MinAndMaxValue.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\MinAndMaxValue\MinAndMaxValue\obj\Debug\net5.0\MinAndMaxValue.dll
+C:\Users\raphael.assis\source\repos\MinAndMaxValue\MinAndMaxValue\obj\Debug\net5.0\ref\MinAndMaxValue.dll
+C:\Users\raphael.assis\source\repos\MinAndMaxValue\MinAndMaxValue\obj\Debug\net5.0\MinAndMaxValue.pdb
+C:\Users\raphael.assis\source\repos\MinAndMaxValue\MinAndMaxValue\obj\Debug\net5.0\MinAndMaxValue.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\Find-the-missing\Find-the-missing\bin\Debug\net5.0\Find-the-missing.exe
+C:\Users\raphael.assis\source\repos\Find-the-missing\Find-the-missing\bin\Debug\net5.0\Find-the-missing.deps.json
+C:\Users\raphael.assis\source\repos\Find-the-missing\Find-the-missing\bin\Debug\net5.0\Find-the-missing.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\Find-the-missing\Find-the-missing\bin\Debug\net5.0\Find-the-missing.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\Find-the-missing\Find-the-missing\bin\Debug\net5.0\Find-the-missing.dll
+C:\Users\raphael.assis\source\repos\Find-the-missing\Find-the-missing\bin\Debug\net5.0\ref\Find-the-missing.dll
+C:\Users\raphael.assis\source\repos\Find-the-missing\Find-the-missing\bin\Debug\net5.0\Find-the-missing.pdb
+C:\Users\raphael.assis\source\repos\Find-the-missing\Find-the-missing\obj\Debug\net5.0\Find-the-missing.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\Find-the-missing\Find-the-missing\obj\Debug\net5.0\Find-the-missing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\Find-the-missing\Find-the-missing\obj\Debug\net5.0\Find-the-missing.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\Find-the-missing\Find-the-missing\obj\Debug\net5.0\Find-the-missing.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\Find-the-missing\Find-the-missing\obj\Debug\net5.0\Find-the-missing.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\Find-the-missing\Find-the-missing\obj\Debug\net5.0\Find-the-missing.dll
+C:\Users\raphael.assis\source\repos\Find-the-missing\Find-the-missing\obj\Debug\net5.0\ref\Find-the-missing.dll
+C:\Users\raphael.assis\source\repos\Find-the-missing\Find-the-missing\obj\Debug\net5.0\Find-the-missing.pdb
+C:\Users\raphael.assis\source\repos\Find-the-missing\Find-the-missing\obj\Debug\net5.0\Find-the-missing.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\hackerrank-Plus-Minus\hackerrank-Plus-Minus\bin\Debug\net5.0\hackerrank-Plus-Minus.exe
+C:\Users\raphael.assis\source\repos\hackerrank-Plus-Minus\hackerrank-Plus-Minus\bin\Debug\net5.0\hackerrank-Plus-Minus.deps.json
+C:\Users\raphael.assis\source\repos\hackerrank-Plus-Minus\hackerrank-Plus-Minus\bin\Debug\net5.0\hackerrank-Plus-Minus.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\hackerrank-Plus-Minus\hackerrank-Plus-Minus\bin\Debug\net5.0\hackerrank-Plus-Minus.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\hackerrank-Plus-Minus\hackerrank-Plus-Minus\bin\Debug\net5.0\hackerrank-Plus-Minus.dll
+C:\Users\raphael.assis\source\repos\hackerrank-Plus-Minus\hackerrank-Plus-Minus\bin\Debug\net5.0\ref\hackerrank-Plus-Minus.dll
+C:\Users\raphael.assis\source\repos\hackerrank-Plus-Minus\hackerrank-Plus-Minus\bin\Debug\net5.0\hackerrank-Plus-Minus.pdb
+C:\Users\raphael.assis\source\repos\hackerrank-Plus-Minus\hackerrank-Plus-Minus\obj\Debug\net5.0\hackerrank-Plus-Minus.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\hackerrank-Plus-Minus\hackerrank-Plus-Minus\obj\Debug\net5.0\hackerrank-Plus-Minus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\hackerrank-Plus-Minus\hackerrank-Plus-Minus\obj\Debug\net5.0\hackerrank-Plus-Minus.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\hackerrank-Plus-Minus\hackerrank-Plus-Minus\obj\Debug\net5.0\hackerrank-Plus-Minus.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\hackerrank-Plus-Minus\hackerrank-Plus-Minus\obj\Debug\net5.0\hackerrank-Plus-Minus.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\hackerrank-Plus-Minus\hackerrank-Plus-Minus\obj\Debug\net5.0\hackerrank-Plus-Minus.dll
+C:\Users\raphael.assis\source\repos\hackerrank-Plus-Minus\hackerrank-Plus-Minus\obj\Debug\net5.0\ref\hackerrank-Plus-Minus.dll
+C:\Users\raphael.assis\source\repos\hackerrank-Plus-Minus\hackerrank-Plus-Minus\obj\Debug\net5.0\hackerrank-Plus-Minus.pdb
+C:\Users\raphael.assis\source\repos\hackerrank-Plus-Minus\hackerrank-Plus-Minus\obj\Debug\net5.0\hackerrank-Plus-Minus.genruntimeconfig.cache

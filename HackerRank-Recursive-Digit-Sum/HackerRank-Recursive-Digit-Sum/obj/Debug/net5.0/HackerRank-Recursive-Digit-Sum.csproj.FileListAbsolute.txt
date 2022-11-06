@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\HackerRank-Recursive-Digit-Sum\HackerRank-Recursive-Digit-Sum\bin\Debug\net5.0\HackerRank-Recursive-Digit-Sum.exe
+C:\Users\raphael.assis\source\repos\HackerRank-Recursive-Digit-Sum\HackerRank-Recursive-Digit-Sum\bin\Debug\net5.0\HackerRank-Recursive-Digit-Sum.deps.json
+C:\Users\raphael.assis\source\repos\HackerRank-Recursive-Digit-Sum\HackerRank-Recursive-Digit-Sum\bin\Debug\net5.0\HackerRank-Recursive-Digit-Sum.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\HackerRank-Recursive-Digit-Sum\HackerRank-Recursive-Digit-Sum\bin\Debug\net5.0\HackerRank-Recursive-Digit-Sum.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\HackerRank-Recursive-Digit-Sum\HackerRank-Recursive-Digit-Sum\bin\Debug\net5.0\HackerRank-Recursive-Digit-Sum.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Recursive-Digit-Sum\HackerRank-Recursive-Digit-Sum\bin\Debug\net5.0\ref\HackerRank-Recursive-Digit-Sum.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Recursive-Digit-Sum\HackerRank-Recursive-Digit-Sum\bin\Debug\net5.0\HackerRank-Recursive-Digit-Sum.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-Recursive-Digit-Sum\HackerRank-Recursive-Digit-Sum\obj\Debug\net5.0\HackerRank-Recursive-Digit-Sum.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Recursive-Digit-Sum\HackerRank-Recursive-Digit-Sum\obj\Debug\net5.0\HackerRank-Recursive-Digit-Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\HackerRank-Recursive-Digit-Sum\HackerRank-Recursive-Digit-Sum\obj\Debug\net5.0\HackerRank-Recursive-Digit-Sum.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Recursive-Digit-Sum\HackerRank-Recursive-Digit-Sum\obj\Debug\net5.0\HackerRank-Recursive-Digit-Sum.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\HackerRank-Recursive-Digit-Sum\HackerRank-Recursive-Digit-Sum\obj\Debug\net5.0\HackerRank-Recursive-Digit-Sum.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-Recursive-Digit-Sum\HackerRank-Recursive-Digit-Sum\obj\Debug\net5.0\HackerRank-Recursive-Digit-Sum.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Recursive-Digit-Sum\HackerRank-Recursive-Digit-Sum\obj\Debug\net5.0\ref\HackerRank-Recursive-Digit-Sum.dll
+C:\Users\raphael.assis\source\repos\HackerRank-Recursive-Digit-Sum\HackerRank-Recursive-Digit-Sum\obj\Debug\net5.0\HackerRank-Recursive-Digit-Sum.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-Recursive-Digit-Sum\HackerRank-Recursive-Digit-Sum\obj\Debug\net5.0\HackerRank-Recursive-Digit-Sum.genruntimeconfig.cache

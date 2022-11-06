@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\Salario-Exercicio-Logica\Salario-Exercicio-Logica\bin\Debug\net5.0\Salario-Exercicio-Logica.exe
+C:\Users\raphael.assis\source\repos\Salario-Exercicio-Logica\Salario-Exercicio-Logica\bin\Debug\net5.0\Salario-Exercicio-Logica.deps.json
+C:\Users\raphael.assis\source\repos\Salario-Exercicio-Logica\Salario-Exercicio-Logica\bin\Debug\net5.0\Salario-Exercicio-Logica.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\Salario-Exercicio-Logica\Salario-Exercicio-Logica\bin\Debug\net5.0\Salario-Exercicio-Logica.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\Salario-Exercicio-Logica\Salario-Exercicio-Logica\bin\Debug\net5.0\Salario-Exercicio-Logica.dll
+C:\Users\raphael.assis\source\repos\Salario-Exercicio-Logica\Salario-Exercicio-Logica\bin\Debug\net5.0\ref\Salario-Exercicio-Logica.dll
+C:\Users\raphael.assis\source\repos\Salario-Exercicio-Logica\Salario-Exercicio-Logica\bin\Debug\net5.0\Salario-Exercicio-Logica.pdb
+C:\Users\raphael.assis\source\repos\Salario-Exercicio-Logica\Salario-Exercicio-Logica\obj\Debug\net5.0\Salario-Exercicio-Logica.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\Salario-Exercicio-Logica\Salario-Exercicio-Logica\obj\Debug\net5.0\Salario-Exercicio-Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\Salario-Exercicio-Logica\Salario-Exercicio-Logica\obj\Debug\net5.0\Salario-Exercicio-Logica.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\Salario-Exercicio-Logica\Salario-Exercicio-Logica\obj\Debug\net5.0\Salario-Exercicio-Logica.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\Salario-Exercicio-Logica\Salario-Exercicio-Logica\obj\Debug\net5.0\Salario-Exercicio-Logica.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\Salario-Exercicio-Logica\Salario-Exercicio-Logica\obj\Debug\net5.0\Salario-Exercicio-Logica.dll
+C:\Users\raphael.assis\source\repos\Salario-Exercicio-Logica\Salario-Exercicio-Logica\obj\Debug\net5.0\ref\Salario-Exercicio-Logica.dll
+C:\Users\raphael.assis\source\repos\Salario-Exercicio-Logica\Salario-Exercicio-Logica\obj\Debug\net5.0\Salario-Exercicio-Logica.pdb
+C:\Users\raphael.assis\source\repos\Salario-Exercicio-Logica\Salario-Exercicio-Logica\obj\Debug\net5.0\Salario-Exercicio-Logica.genruntimeconfig.cache

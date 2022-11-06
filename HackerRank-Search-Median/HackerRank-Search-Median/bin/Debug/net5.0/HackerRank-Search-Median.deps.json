@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HackerRank-Search-Median/1.0.0": {
+        "runtime": {
+          "HackerRank-Search-Median.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HackerRank-Search-Median/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\HackerRank-grid-challenge\HackerRank-grid-challenge\bin\Debug\net5.0\HackerRank-grid-challenge.exe
+C:\Users\raphael.assis\source\repos\HackerRank-grid-challenge\HackerRank-grid-challenge\bin\Debug\net5.0\HackerRank-grid-challenge.deps.json
+C:\Users\raphael.assis\source\repos\HackerRank-grid-challenge\HackerRank-grid-challenge\bin\Debug\net5.0\HackerRank-grid-challenge.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\HackerRank-grid-challenge\HackerRank-grid-challenge\bin\Debug\net5.0\HackerRank-grid-challenge.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\HackerRank-grid-challenge\HackerRank-grid-challenge\bin\Debug\net5.0\HackerRank-grid-challenge.dll
+C:\Users\raphael.assis\source\repos\HackerRank-grid-challenge\HackerRank-grid-challenge\bin\Debug\net5.0\ref\HackerRank-grid-challenge.dll
+C:\Users\raphael.assis\source\repos\HackerRank-grid-challenge\HackerRank-grid-challenge\bin\Debug\net5.0\HackerRank-grid-challenge.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-grid-challenge\HackerRank-grid-challenge\obj\Debug\net5.0\HackerRank-grid-challenge.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\HackerRank-grid-challenge\HackerRank-grid-challenge\obj\Debug\net5.0\HackerRank-grid-challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\HackerRank-grid-challenge\HackerRank-grid-challenge\obj\Debug\net5.0\HackerRank-grid-challenge.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-grid-challenge\HackerRank-grid-challenge\obj\Debug\net5.0\HackerRank-grid-challenge.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\HackerRank-grid-challenge\HackerRank-grid-challenge\obj\Debug\net5.0\HackerRank-grid-challenge.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\HackerRank-grid-challenge\HackerRank-grid-challenge\obj\Debug\net5.0\HackerRank-grid-challenge.dll
+C:\Users\raphael.assis\source\repos\HackerRank-grid-challenge\HackerRank-grid-challenge\obj\Debug\net5.0\ref\HackerRank-grid-challenge.dll
+C:\Users\raphael.assis\source\repos\HackerRank-grid-challenge\HackerRank-grid-challenge\obj\Debug\net5.0\HackerRank-grid-challenge.pdb
+C:\Users\raphael.assis\source\repos\HackerRank-grid-challenge\HackerRank-grid-challenge\obj\Debug\net5.0\HackerRank-grid-challenge.genruntimeconfig.cache

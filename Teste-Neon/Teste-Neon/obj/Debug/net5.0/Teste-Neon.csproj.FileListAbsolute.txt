@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\Teste-Neon\Teste-Neon\bin\Debug\net5.0\Teste-Neon.exe
+C:\Users\raphael.assis\source\repos\Teste-Neon\Teste-Neon\bin\Debug\net5.0\Teste-Neon.deps.json
+C:\Users\raphael.assis\source\repos\Teste-Neon\Teste-Neon\bin\Debug\net5.0\Teste-Neon.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\Teste-Neon\Teste-Neon\bin\Debug\net5.0\Teste-Neon.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\Teste-Neon\Teste-Neon\bin\Debug\net5.0\Teste-Neon.dll
+C:\Users\raphael.assis\source\repos\Teste-Neon\Teste-Neon\bin\Debug\net5.0\ref\Teste-Neon.dll
+C:\Users\raphael.assis\source\repos\Teste-Neon\Teste-Neon\bin\Debug\net5.0\Teste-Neon.pdb
+C:\Users\raphael.assis\source\repos\Teste-Neon\Teste-Neon\obj\Debug\net5.0\Teste-Neon.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\Teste-Neon\Teste-Neon\obj\Debug\net5.0\Teste-Neon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\Teste-Neon\Teste-Neon\obj\Debug\net5.0\Teste-Neon.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\Teste-Neon\Teste-Neon\obj\Debug\net5.0\Teste-Neon.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\Teste-Neon\Teste-Neon\obj\Debug\net5.0\Teste-Neon.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\Teste-Neon\Teste-Neon\obj\Debug\net5.0\Teste-Neon.dll
+C:\Users\raphael.assis\source\repos\Teste-Neon\Teste-Neon\obj\Debug\net5.0\ref\Teste-Neon.dll
+C:\Users\raphael.assis\source\repos\Teste-Neon\Teste-Neon\obj\Debug\net5.0\Teste-Neon.pdb
+C:\Users\raphael.assis\source\repos\Teste-Neon\Teste-Neon\obj\Debug\net5.0\Teste-Neon.genruntimeconfig.cache

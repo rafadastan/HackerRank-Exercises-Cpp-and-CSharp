@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\Palindromo-teste\Palindromo-teste\bin\Debug\net5.0\Palindromo-teste.exe
+C:\Users\raphael.assis\source\repos\Palindromo-teste\Palindromo-teste\bin\Debug\net5.0\Palindromo-teste.deps.json
+C:\Users\raphael.assis\source\repos\Palindromo-teste\Palindromo-teste\bin\Debug\net5.0\Palindromo-teste.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\Palindromo-teste\Palindromo-teste\bin\Debug\net5.0\Palindromo-teste.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\Palindromo-teste\Palindromo-teste\bin\Debug\net5.0\Palindromo-teste.dll
+C:\Users\raphael.assis\source\repos\Palindromo-teste\Palindromo-teste\bin\Debug\net5.0\ref\Palindromo-teste.dll
+C:\Users\raphael.assis\source\repos\Palindromo-teste\Palindromo-teste\bin\Debug\net5.0\Palindromo-teste.pdb
+C:\Users\raphael.assis\source\repos\Palindromo-teste\Palindromo-teste\obj\Debug\net5.0\Palindromo-teste.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\Palindromo-teste\Palindromo-teste\obj\Debug\net5.0\Palindromo-teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\Palindromo-teste\Palindromo-teste\obj\Debug\net5.0\Palindromo-teste.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\Palindromo-teste\Palindromo-teste\obj\Debug\net5.0\Palindromo-teste.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\Palindromo-teste\Palindromo-teste\obj\Debug\net5.0\Palindromo-teste.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\Palindromo-teste\Palindromo-teste\obj\Debug\net5.0\Palindromo-teste.dll
+C:\Users\raphael.assis\source\repos\Palindromo-teste\Palindromo-teste\obj\Debug\net5.0\ref\Palindromo-teste.dll
+C:\Users\raphael.assis\source\repos\Palindromo-teste\Palindromo-teste\obj\Debug\net5.0\Palindromo-teste.pdb
+C:\Users\raphael.assis\source\repos\Palindromo-teste\Palindromo-teste\obj\Debug\net5.0\Palindromo-teste.genruntimeconfig.cache

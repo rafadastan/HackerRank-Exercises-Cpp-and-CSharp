@@ -1,0 +1,16 @@
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\Find-Max-Products-Processo-Seletivo-Amazon\bin\Debug\net5.0\Find-Max-Products-Processo-Seletivo-Amazon.exe
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\Find-Max-Products-Processo-Seletivo-Amazon\bin\Debug\net5.0\Find-Max-Products-Processo-Seletivo-Amazon.deps.json
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\Find-Max-Products-Processo-Seletivo-Amazon\bin\Debug\net5.0\Find-Max-Products-Processo-Seletivo-Amazon.runtimeconfig.json
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\Find-Max-Products-Processo-Seletivo-Amazon\bin\Debug\net5.0\Find-Max-Products-Processo-Seletivo-Amazon.runtimeconfig.dev.json
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\Find-Max-Products-Processo-Seletivo-Amazon\bin\Debug\net5.0\Find-Max-Products-Processo-Seletivo-Amazon.dll
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\Find-Max-Products-Processo-Seletivo-Amazon\bin\Debug\net5.0\ref\Find-Max-Products-Processo-Seletivo-Amazon.dll
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\Find-Max-Products-Processo-Seletivo-Amazon\bin\Debug\net5.0\Find-Max-Products-Processo-Seletivo-Amazon.pdb
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\Find-Max-Products-Processo-Seletivo-Amazon\obj\Debug\net5.0\Find-Max-Products-Processo-Seletivo-Amazon.csproj.AssemblyReference.cache
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\Find-Max-Products-Processo-Seletivo-Amazon\obj\Debug\net5.0\Find-Max-Products-Processo-Seletivo-Amazon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\Find-Max-Products-Processo-Seletivo-Amazon\obj\Debug\net5.0\Find-Max-Products-Processo-Seletivo-Amazon.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\Find-Max-Products-Processo-Seletivo-Amazon\obj\Debug\net5.0\Find-Max-Products-Processo-Seletivo-Amazon.AssemblyInfo.cs
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\Find-Max-Products-Processo-Seletivo-Amazon\obj\Debug\net5.0\Find-Max-Products-Processo-Seletivo-Amazon.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\Find-Max-Products-Processo-Seletivo-Amazon\obj\Debug\net5.0\Find-Max-Products-Processo-Seletivo-Amazon.dll
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\Find-Max-Products-Processo-Seletivo-Amazon\obj\Debug\net5.0\ref\Find-Max-Products-Processo-Seletivo-Amazon.dll
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\Find-Max-Products-Processo-Seletivo-Amazon\obj\Debug\net5.0\Find-Max-Products-Processo-Seletivo-Amazon.pdb
+C:\Users\raphael.assis\source\repos\Find-Max-Products-Processo-Seletivo-Amazon\Find-Max-Products-Processo-Seletivo-Amazon\obj\Debug\net5.0\Find-Max-Products-Processo-Seletivo-Amazon.genruntimeconfig.cache
